@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-blue-500 h-24 shadow">
+  <div class="bg-blue-600 h-24 shadow">
     <div class="text-3xl text-white p-8">ToDo's</div>
   </div>
   <div class="p-8">
