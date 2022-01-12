@@ -12,12 +12,12 @@
 
 <script>
 import ToDo from './components/ToDo.vue'
-import DashboardCard from './components/DashboardCard.vue'
+//import DashboardCard from './components/DashboardCard.vue'
 export default {
   name: 'App',
   components: {
     ToDo,
-    DashboardCard
+    //DashboardCard
   }
 }
 </script>
