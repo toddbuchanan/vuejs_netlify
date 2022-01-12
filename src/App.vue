@@ -5,14 +5,19 @@
   <div class="p-8">
     <ToDo />
   </div>
+  <div class="p-8">
+    <DashboardCard />
+  </div>
 </template>
 
 <script>
 import ToDo from './components/ToDo.vue'
+import DashboardCard from './components/DashboardCard.vue'
 export default {
   name: 'App',
   components: {
-    ToDo
+    ToDo,
+    DashboardCard
   }
 }
 </script>
